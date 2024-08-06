@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
@@ -27,11 +28,13 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0961-long-pressed-name](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## String
 |  |
