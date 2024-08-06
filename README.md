@@ -8,6 +8,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Hash Table
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
