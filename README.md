@@ -26,8 +26,13 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0961-long-pressed-name](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0961-long-pressed-name](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0961-long-pressed-name) |
 <!---LeetCode Topics End-->
