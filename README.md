@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
