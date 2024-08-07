@@ -21,6 +21,7 @@
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
