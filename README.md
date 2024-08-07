@@ -23,10 +23,12 @@
 | [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0001-two-sum) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
