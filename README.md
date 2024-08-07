@@ -24,11 +24,13 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
