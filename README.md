@@ -4,11 +4,13 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
