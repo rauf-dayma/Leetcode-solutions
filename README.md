@@ -15,6 +15,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
