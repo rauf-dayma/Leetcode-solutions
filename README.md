@@ -17,6 +17,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0961-long-pressed-name](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -84,4 +87,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
