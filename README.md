@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Dynamic Programming
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
