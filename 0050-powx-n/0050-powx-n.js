@@ -4,14 +4,12 @@
  * @return {number}
  */
 var myPow = function(x, n) {
-    if (n === 0) return 1; // Any number raised to the power of 0 is 1
-    
-        if(x==1 ){
-            return 1;
-        }
+    if (n === 0) return 1; // x^0 = 1 for any x
+    if (x === 1) return 1; // 1^n = 1 for any n
+    if (x === -1) return n % 2 === 0 ? 1 : -1; 
     
     let power = 1;
-    let absN = n > 0 ? n : -n; // Get the absolute value of n without using Math.abs
+    let absN = n > 0 ? n : -n; 
 
     while (absN > 0) {
         if (absN % 2 === 1) {
