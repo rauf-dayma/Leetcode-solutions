@@ -58,10 +58,12 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0961-long-pressed-name](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0961-long-pressed-name) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
