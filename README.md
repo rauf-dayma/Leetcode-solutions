@@ -62,6 +62,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0961-long-pressed-name](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0961-long-pressed-name) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
