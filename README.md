@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -67,6 +70,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -78,6 +82,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rauf-dayma/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Divide and Conquer
